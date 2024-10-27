@@ -1,0 +1,5 @@
+"ID","name","versionNumber","contentType","dataFileSizeBytes","createdBy","createdOn","modifiedBy","modifiedOn","parentId","synapseURL","dataFileMD5Hex"
+"syn3033093","DREAM3_GeneExpressionChallenge_TargetList.txt","1","text/plain","908","1918749","1419397702373","1918749","1419397702373","syn3033086","https://www.synapse.org/#!Synapse:syn3033093.1","dd5c6a36e0a6ca41340f627cd573b1de"
+"syn3033096","DREAM3GoldStandard_ExpressionChallenge.txt","1","text/plain","1968","1918749","1419397837283","1918749","1419397837283","syn3033086","https://www.synapse.org/#!Synapse:syn3033096.1","a5b7e735b19b05cb531c95379331839c"
+"syn3033092","DREAM3_GeneExpressionChallenge_ExpressionData.txt","1","text/plain","3763958","1918749","1419397699105","1918749","1419397699105","syn3033086","https://www.synapse.org/#!Synapse:syn3033092.1","c71b673bff1a333ddf20d474a92b24db"
+"syn3033091","DREAM3_GeneExpressionChallenge_ExpressionData_UPDATED.txt","1","text/plain","3767878","1918749","1419397689908","1918749","1419397689908","syn3033086","https://www.synapse.org/#!Synapse:syn3033091.1","e991e0e65578c9e5a897b14381dc5369"
